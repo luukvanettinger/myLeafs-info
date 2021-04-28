@@ -1,6 +1,4 @@
-
-
-## About myLeafs
+# myLeafs
 
 myLeafs is a React Native app for IOS & Android. Its purpose is to help users keep track of watering their plants. myLeafs is a hobby project of mine that I started developing out of interest and lack of good plant apps that fitted my needs.
 
